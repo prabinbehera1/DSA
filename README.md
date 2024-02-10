@@ -1,2 +1,2 @@
 # DSA
-Different DSA solutions solved by me
+Different DSA Questions solved by me
